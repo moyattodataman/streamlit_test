@@ -4,7 +4,7 @@ from io import StringIO
 from prophet import Prophet
 
 st.title("時系列分析")
-st.write("テストアプリです")
+st.write("テストアプリです----------------")
 st.markdown("## 仕組み")
 st.markdown("[prophet](https://facebook.github.io/prophet/)で予測しています")
 
